@@ -1,4 +1,4 @@
-### What's new 👀
+### About me 👀
 
 - I am a developer of Fácil, a Cuban application for ETECSA mobile services. I'm interested in learning Kotlin, it's the future 😉
 
