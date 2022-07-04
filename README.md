@@ -1,6 +1,6 @@
 ### What's new 👀
 
-- I'am deceloper for Fácil, application cubana to gest service movibles
+- I am a developer of Fácil, a Cuban application for ETECSA mobile services. I'm interested in learning Kotlin, it's the future 😉
 
 <!--
 **pix3lcode/pix3lcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
